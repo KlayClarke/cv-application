@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+#main-container {
+  display: flex;
+  padding: 20px;
+}
+
+#form-container input {
+  margin-left: 10px;
+  margin-bottom: 25px;
+}
+
+form h4 {
+  margin-bottom: 20px;
+}
+
+#cv-container {
+  margin-left: 40px;
+}
+
+li {
+  list-style-type: none;
+}
